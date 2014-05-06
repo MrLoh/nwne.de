@@ -10,7 +10,6 @@ Durch eine komplexe Neugestaltung sollen die Wärme-, Strom- und Kälteversorgun
 <a href="../_ressources/pdf/buch_folien.pdf"><img src="../_ressources/pdf/buch_folien.png"><br>Folien: <br>Berlin Buch <span><br>Green Campus</span></a>
 </div>
 
-
 ## Energiekonzept Lohberg, Dinslaken (2011)
 
 Energiekonzept für den Zechenstandort Lohberg, Dinslaken. 
@@ -29,7 +28,6 @@ Fachgutachter zum Wettbewerb „Neue Kaue“ Lohberg.
 
 Das Energiekonzept für den Zechenstandort bildete die Grundlage für einen beschränkten Wettbewerb unter fünf Architekturbüros für das erste Modellgebäude am Standort der alten Kaue, aus dem Bob Gysin und Partner, Zürich, als Gewinner hervorgingen.
 
-
 ## Klimaschutzkonzept Wachstumskern O-H-V  (2010)
 
 Klimaschutzkonzept für den regionalen Wachstumskern Oranienburg-Hennigsdorf-Velten. 
@@ -39,9 +37,6 @@ Für die nördlich von Berlin gelegenen Städte Oranienburg, Hennigsdorf und Vel
 <div class="anhang">
 <a href="../_ressources/pdf/ohv_folien.pdf"><img src="../_ressources/pdf/ohv_folien.png"><br>Folien: <br>Klimaschutzkonzept des Regionalen Wachstumskerns Oranienburg-Hennigsdorf-Velten und Klimafreundliches Fernwärmekonzept Hennigsdorf</a>
 </div>
-
-
-
 
 ## Energiestrategie Landkreis OSL (2010)
 
@@ -53,8 +48,8 @@ Auf der Basis der Energiestrategie des Landes Brandenburg konnte in einer Analys
 <a href="../_ressources/pdf/osl_folien.pdf"><img src="../_ressources/pdf/osl_folien.png"><br>Folien: <br>Umsetzung Energiestrategie 2020 Landkreis Oberspreewald Lausit</a>
 </div>
 
-
 ## FUTUREforest Game (2010)
+
 Inhaltliches und grafisches Konzept für ein PC-Spiel zur Simulation der Entwicklung europäischer Wälder im Klimawandel auf der Basis des Sensitivitätsmodells von Frederic Vester. 
 
 In Zusammenarbeit mit Malik-Management wurden aus der Arbeit des FUTUREforest-Projektes 11 Variablen abgeleitet, die die Entwicklung Europäischer Wälder beeinflussen. In einem dynamischen Systemmodell wurden diese Variablen abgebildet und zu einem Spiel verarbeitet, dessen grafische Oberfläche gemeinsam entwickelt wurde.
