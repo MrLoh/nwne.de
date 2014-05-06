@@ -9,6 +9,17 @@ include("../_ressources/parts/header.php");
 
 echo "<article>";
 ob_start();
+$article = "2014-05-07";
+include($article . ".md");
+$content = ob_get_clean();
+$my_html = Markdown::defaultTransform($content);
+echo "$my_html";
+echo "</article>";
+echo "</div>";
+
+echo "<div class='seite'>";
+echo "<article>";
+ob_start();
 $article = "2014-04-17";
 include($article . ".md");
 $content = ob_get_clean();
