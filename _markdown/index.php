@@ -2,7 +2,7 @@
 
 /* Header */
 $pagetitle = "markdown_leitfaden";
-include_once "../_ressources/library/php-markdown/Michelf/Markdown.php"; use \Michelf\Markdown;
+include_once "../_ressources/library/php-markdown/Michelf/Markdown.inc.php"; use \Michelf\Markdown;
 include("../_ressources/parts/header.php");
 
 /* Content */
