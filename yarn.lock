@@ -90,6 +90,11 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
+"@fontsource/source-sans-pro@^4.2.2":
+  version "4.2.2"
+  resolved "https://registry.yarnpkg.com/@fontsource/source-sans-pro/-/source-sans-pro-4.2.2.tgz#db231e349ed4b3594ccdd9163b2cbf3bfb94b040"
+  integrity sha512-ApmV5F1D32nmBspCJuijDNBV7TtazFC4L7BIilHj3e6IAW/ndQMXl1+4DUjOGVO/83tF/WXjOEMxROE0QxYDwQ==
+
 "@hapi/accept@5.0.1":
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/@hapi/accept/-/accept-5.0.1.tgz#068553e867f0f63225a506ed74e899441af53e10"
